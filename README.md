@@ -1,6 +1,6 @@
 # Demo for BS-SVRG
 
-A demo for SVRG Boosted by Shifting Objective (BS-SVRG) proposed in "Boosting First-order Methods by Shifting Objective: New Schemes with Faster Worst-Case Rates", Kaiwen Zhou, Anthony Man-Cho So and James Cheng, NeurIPS2020 [arXiv](https://arxiv.org/pdf/2005.12061.pdf).
+A demo for SVRG Boosted by Shifting Objective (BS-SVRG) proposed in "Boosting First-order Methods by Shifting Objective: New Schemes with Faster Worst-Case Rates. Kaiwen Zhou, Anthony Man-Cho So, James Cheng", NeurIPS2020, [arXiv](https://arxiv.org/pdf/2005.12061.pdf).
 
 ## Usage
 
